@@ -1,18 +1,25 @@
-## Hi there 👋
+## Hi there, my name is Jin Hao 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ctjh)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+     I am a 18 year old Singaporean girl interested in Cybersecurity and Web Development. I am currently a student in High School. I mainly build tools for daily use or aid in quality of life.
+</p>
+     Tools I am familiar with 
+<ul>
+    <li>Python</li>
+    <li>Lua</li>
+    <li>HTML, CSS</li>
+    <li>Javascript</li>
+    <li>NodeJS</li>
+    <li>C++</li>
+</ul>
 
-<!--
-**ctjh/ctjh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Contact Me Here!</p>
+<p><a href="mailto:chewjinhao1432@gmail.cm">✉️Email</a> • <a href="https://discordapp.com/users/ctjh">💻Discord</a> • <a href="https://ctjh.github.io">🌐Blog</a></p>
 
-Here are some ideas to get you started:
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=ctjh&theme=midnight-purple&show_icons=true&count_private=true)](https://github.com/ctjh)
+
+
+
