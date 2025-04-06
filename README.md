@@ -1,7 +1,7 @@
 ## Hi there, my name is Jin Hao 👋
 
 <p>
-     I am a 19 year old Singaporean girl interested in Cybersecurity and Web Development. I am currently enrolling in university. I mainly build tools for daily use or aid in quality of life.
+     I am a 19 year old Singaporean girl interested in Cybersecurity and Web Development! Currently, I am awaiting enrolment in university for computer science. I mainly build tools for daily use or aid in quality of life.
 </p>
      Tools I am familiar with 
 <ul>
